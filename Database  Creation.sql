@@ -1,4 +1,4 @@
-'''sql
+'''mysql
 DROP DATABASE IF EXISTS company_ltd;
 
 CREATE DATABASE company_ltd;
