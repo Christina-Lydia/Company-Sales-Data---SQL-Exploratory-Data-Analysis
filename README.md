@@ -1,4 +1,4 @@
-# SQL-Exploratory-Data-Analysis
+# Company Sales Data - SQL Exploratory Data Anaöysis
 In this project, the aim is to use SQL to analyse fictive sales data of a company. The data is already cleaned  and is not attached to a particular organisation. The code used in creating the database is available as well all the questions to be answered.
 
 The database is made up of three tables:staff, customers and sales.
